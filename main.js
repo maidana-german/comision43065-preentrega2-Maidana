@@ -66,25 +66,3 @@ alert(JSON.stringify(carrito, null, 2));
 alert(carritoMensaje);
 alert("Items actualizados del stock")
 alert(JSON.stringify(productos, null, 2));
-
-
-
-/*
-// Método para descontar del stock el producto vendido
-vender(){
-    if(producto.stock > 0){
-    producto.stock = producto.stock - cantidad;
-    }
-    else{
-        alert("No hay stock")
-    }
-}
-// Ejectuto el método "vender" para descontarlo del stock
-producto1.vender();
-
-
- */
-
-
-
-
